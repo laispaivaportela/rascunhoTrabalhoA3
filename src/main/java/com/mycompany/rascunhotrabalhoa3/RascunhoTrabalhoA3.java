@@ -61,6 +61,8 @@ public class RascunhoTrabalhoA3 {
         
         // WAR IS OVERRRRRRRRRRRRRRRRRRRRRRRRR
         
-        System.out.println("Ye");
+        System.out.println("Ye"); 
+        System.out.println("Drogas >:D");
+        System.out.println("heeh");
     }
 }
