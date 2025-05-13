@@ -58,5 +58,11 @@ public class RascunhoTrabalhoA3 {
         
         
         //uauauauauauauauua
+        
+        // WAR IS OVERRRRRRRRRRRRRRRRRRRRRRRRR
+        
+        System.out.println("Ye"); 
+        System.out.println("Drogas >:D");
+        System.out.println("heeh");
     }
 }
