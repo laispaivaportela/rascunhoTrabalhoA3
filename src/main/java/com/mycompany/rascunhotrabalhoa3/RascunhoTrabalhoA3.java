@@ -23,7 +23,6 @@ public class RascunhoTrabalhoA3 {
         // VAMO TRANCAR
         // cansei dessa vida 
         //qualquer coisarrrrr
-        //que saco
-        // morri
+        //oh mds
     }
 }
