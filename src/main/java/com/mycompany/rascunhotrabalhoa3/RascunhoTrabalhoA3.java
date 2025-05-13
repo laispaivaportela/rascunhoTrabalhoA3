@@ -24,5 +24,6 @@ public class RascunhoTrabalhoA3 {
         // cansei dessa vida 
         //qualquer coisarrrrr
         //que saco
+        // morri
     }
 }
