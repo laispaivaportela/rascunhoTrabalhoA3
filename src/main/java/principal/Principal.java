@@ -5,5 +5,7 @@ public class Principal {
         
         //vamo usar esse como main nmlr
         //socorroaaaaa
+        //testeeeee
+        System.out.println("oiee teste");
     }
 }
